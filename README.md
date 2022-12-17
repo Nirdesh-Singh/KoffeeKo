@@ -18,6 +18,13 @@ Nirdesh Singh 20BCE7062
 
 S Pranith 20BCE7388
 
+# APK File
+
+Please download the app from this link :
+
+https://drive.google.com/file/d/1eF22I8hL0jOGiZs1H3pDfAlh-DpnNr7z/view?usp=sharing
+
+
 # Abstract
 
 Every employee likes to begin their day with a cup of coffee as per their preference. The usual procedure is for the cafeteria staff to go around the table and take each person's order on paper before preparing the coffee. 
