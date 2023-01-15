@@ -2,22 +2,6 @@
 
 Cloud Computing Project
 
-Slot - G1 + TG1
-
-# Team Members: 
-
-Chaitanya Nagre 20BCN7032
-
-Dhyan 20BCE7648
-
-Gaurav Sharma 20BCE7443
-
-Kasula Rishik 20BCE7011
-
-Nirdesh Singh 20BCE7062
-
-S Pranith 20BCE7388
-
 # APK File
 
 Please download the app from this link :
